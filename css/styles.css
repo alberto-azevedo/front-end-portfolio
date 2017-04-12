@@ -1,0 +1,32 @@
+body {
+  font-family: "Lato", sans-serif;
+  color: #2d3c49;
+  font-weight: 300;
+}
+
+.img-center {
+  margin:0 auto;
+}
+
+.projects {
+  text-align: center;
+  padding: 0px;
+  border: 0px;
+  margin-left: 5px;
+}
+
+.text-general {
+  color: #2d3c49;
+}
+
+.text-featured {
+  color: #7d97ad;
+  font-weight: 300;
+}
+
+.title-main {
+  font-size: 60px;
+}
+.margin-logo {
+  margin-top: 35px;
+}
